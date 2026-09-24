@@ -1,0 +1,487 @@
+location_key,city,province,country,zip_code,region
+1,HOUSTON,Texas,United States,88446,South
+2,MONROE,Louisiana,United States,50466,South
+3,EL PASO,Texas,United States,56331,South
+4,PANAMA CITY,Florida,United States,70043,South
+5,SPRINGFIELD,Illinois,United States,51697,Midwest
+6,GREEN BAY,Wisconsin,United States,36126,Midwest
+7,LAFAYETTE,Indiana,United States,55467,Midwest
+8,CHICAGO,Illinois,United States,12320,Midwest
+9,BURBANK,California,United States,34046,West
+10,LONG BEACH,California,United States,83064,West
+11,SHREVEPORT,Louisiana,United States,97570,South
+12,ORANGE,California,United States,3074,West
+13,ATLANTA,Georgia,United States,49866,South
+14,SCOTTSDALE,Arizona,United States,32326,West
+15,SANTA CLARA,California,United States,32545,West
+16,WASHINGTON,District Of Columbia,United States,70613,South
+17,JACKSONVILLE,Florida,United States,13505,South
+18,COLUMBIA,South Carolina,United States,29423,South
+19,NEW YORK CITY,New York,United States,10724,Northeast
+20,MIAMI,Florida,United States,97446,South
+21,ALBUQUERQUE,New Mexico,United States,76285,West
+22,SPRING,Texas,United States,46221,South
+23,BRADENTON,Florida,United States,66056,South
+24,MEMPHIS,Tennessee,United States,67435,South
+25,GARY,Indiana,United States,1443,Midwest
+26,BROOKLYN,New York,United States,41669,Northeast
+27,STOCKTON,California,United States,53581,West
+28,NEW ORLEANS,Louisiana,United States,89377,South
+29,PITTSBURGH,Pennsylvania,United States,39019,Northeast
+30,KATY,Texas,United States,46066,South
+31,TEXARKANA,Texas,United States,54381,South
+32,TAMPA,Florida,United States,72707,South
+33,HUNTSVILLE,Alabama,United States,78325,South
+34,CHATTANOOGA,Tennessee,United States,14626,South
+35,LAS VEGAS,Nevada,United States,21478,West
+36,READING,Pennsylvania,United States,21380,Northeast
+37,ANNISTON,Alabama,United States,81324,South
+38,CORPUS CHRISTI,Texas,United States,95354,South
+39,RICHMOND,Virginia,United States,39048,South
+40,BALTIMORE,Maryland,United States,6424,South
+41,DES MOINES,Iowa,United States,97602,Midwest
+42,SANTA CRUZ,California,United States,4948,West
+43,PORTLAND,Oregon,United States,25949,West
+44,MADISON,Wisconsin,United States,48457,Midwest
+45,GRAND RAPIDS,Michigan,United States,41333,Midwest
+46,KANSAS CITY,Missouri,United States,88005,Midwest
+47,TORRANCE,California,United States,78715,West
+48,LAFAYETTE,Louisiana,United States,52,South
+49,TOPEKA,Kansas,United States,76037,Midwest
+50,BIRMINGHAM,Alabama,United States,94287,South
+51,SCRANTON,Pennsylvania,United States,83354,Northeast
+52,LINCOLN,Nebraska,United States,50843,Midwest
+53,DALLAS,Texas,United States,91461,South
+54,VANCOUVER,Washington,United States,47200,West
+55,SAN FRANCISCO,California,United States,64290,West
+56,ALBANY,Georgia,United States,41644,South
+57,AKRON,Ohio,United States,23773,Midwest
+58,NASHVILLE,Tennessee,United States,60290,South
+59,BOSTON,Massachusetts,United States,85300,Northeast
+60,SAVANNAH,Georgia,United States,66017,South
+61,WINSTON SALEM,North Carolina,United States,56200,South
+62,SAN JOSE,California,United States,79282,West
+63,COLUMBUS,Ohio,United States,68727,Midwest
+64,AURORA,Colorado,United States,66334,West
+65,SCHENECTADY,New York,United States,89313,Northeast
+66,SAGINAW,Michigan,United States,65036,Midwest
+67,KINGSPORT,Tennessee,United States,92596,South
+68,SAN DIEGO,California,United States,55331,West
+69,DENVER,Colorado,United States,49266,West
+70,SEATTLE,Washington,United States,46424,West
+71,BATTLE CREEK,Michigan,United States,35756,Midwest
+72,CLEVELAND,Ohio,United States,12423,Midwest
+73,CHARLESTON,West Virginia,United States,93410,South
+74,FRESNO,California,United States,8012,West
+75,MUSKEGON,Michigan,United States,59679,Midwest
+76,MINNEAPOLIS,Minnesota,United States,63436,Midwest
+77,LUBBOCK,Texas,United States,76778,South
+78,TERRE HAUTE,Indiana,United States,69574,Midwest
+79,SYRACUSE,New York,United States,31206,Northeast
+80,OMAHA,Nebraska,United States,43109,Midwest
+81,MAPLE PLAIN,Minnesota,United States,64237,Midwest
+82,FORT LAUDERDALE,Florida,United States,82949,South
+83,SACRAMENTO,California,United States,41369,West
+84,NAPLES,Florida,United States,96330,South
+85,TRENTON,New Jersey,United States,40797,Northeast
+86,WEST HARTFORD,Connecticut,United States,70647,Northeast
+87,AUSTIN,Texas,United States,40093,South
+88,ALPHARETTA,Georgia,United States,16538,South
+89,HUNTINGTON,West Virginia,United States,67147,South
+90,RIVERSIDE,California,United States,11889,West
+91,STERLING,Virginia,United States,61550,South
+92,PHOENIX,Arizona,United States,66379,West
+93,MOBILE,Alabama,United States,22366,South
+94,DETROIT,Michigan,United States,5652,Midwest
+95,SOUTH BEND,Indiana,United States,234,Midwest
+96,WILKES BARRE,Pennsylvania,United States,590,Northeast
+97,SPRINGFIELD,Missouri,United States,55852,Midwest
+98,CEDAR RAPIDS,Iowa,United States,50450,Midwest
+99,PHILADELPHIA,Pennsylvania,United States,94503,Northeast
+100,SAN ANTONIO,Texas,United States,30852,South
+101,YOUNG AMERICA,Minnesota,United States,3310,Midwest
+102,ROCHESTER,New York,United States,32183,Northeast
+103,GARDEN GROVE,California,United States,52846,West
+104,CLEARWATER,Florida,United States,52107,South
+105,ROANOKE,Virginia,United States,42279,South
+106,AMARILLO,Texas,United States,62806,South
+107,SAN RAFAEL,California,United States,74964,West
+108,TACOMA,Washington,United States,60882,West
+109,TULSA,Oklahoma,United States,9405,South
+110,HAMILTON,Ohio,United States,83978,Midwest
+111,HIALEAH,Florida,United States,81888,South
+112,CARSON CITY,Nevada,United States,86968,West
+113,STAMFORD,Connecticut,United States,6694,Northeast
+114,ARLINGTON,Virginia,United States,33559,South
+115,NEWTON,Massachusetts,United States,42445,Northeast
+116,JERSEY CITY,New Jersey,United States,89375,Northeast
+117,LANSING,Michigan,United States,6605,Midwest
+118,SALT LAKE CITY,Utah,United States,45856,West
+119,OKLAHOMA CITY,Oklahoma,United States,20556,South
+120,DAVENPORT,Iowa,United States,59785,Midwest
+121,CHARLOTTE,North Carolina,United States,20070,South
+122,HARTFORD,Connecticut,United States,34115,Northeast
+123,GAINESVILLE,Florida,United States,99656,South
+124,HAGERSTOWN,Maryland,United States,44660,South
+125,GARLAND,Texas,United States,47969,South
+126,ARLINGTON,Texas,United States,96411,South
+127,PASADENA,California,United States,36606,West
+128,SIOUX FALLS,South Dakota,United States,31106,Midwest
+129,BROOKSVILLE,Florida,United States,46845,South
+130,BRYAN,Texas,United States,86182,South
+131,MIGRATE,Kentucky,United States,80669,South
+132,INDEPENDENCE,Missouri,United States,20049,Midwest
+133,MONTGOMERY,Alabama,United States,79699,South
+134,JACKSON,Mississippi,United States,47113,South
+135,SPRINGFIELD,Massachusetts,United States,39761,Northeast
+136,BUFFALO,New York,United States,41222,Northeast
+137,MONTICELLO,Minnesota,United States,6685,Midwest
+138,HERNDON,Virginia,United States,64840,South
+139,EUGENE,Oregon,United States,72767,West
+140,LAREDO,Texas,United States,19208,South
+141,FORT WAYNE,Indiana,United States,77876,Midwest
+142,JEFFERSON CITY,Missouri,United States,8038,Midwest
+143,DAYTON,Ohio,United States,99454,Midwest
+144,PLANO,Texas,United States,71559,South
+145,LOS ANGELES,California,United States,84635,West
+146,SAN LUIS OBISPO,California,United States,47977,West
+147,PALM BAY,Florida,United States,48651,South
+148,RALEIGH,North Carolina,United States,50834,South
+149,ALBANY,New York,United States,20933,Northeast
+150,SAINT PAUL,Minnesota,United States,77929,Midwest
+151,NORFOLK,Virginia,United States,54665,South
+152,ABILENE,Texas,United States,2987,South
+153,OAKLAND,California,United States,69983,West
+154,NEWARK,New Jersey,United States,29307,Northeast
+155,MORGANTOWN,West Virginia,United States,44855,South
+156,ERIE,Pennsylvania,United States,68432,Northeast
+157,FORT COLLINS,Colorado,United States,44480,West
+158,POCATELLO,Idaho,United States,45730,West
+159,GLENDALE,California,United States,46995,West
+160,BAKERSFIELD,California,United States,18404,West
+161,SAINT PETERSBURG,Florida,United States,21494,South
+162,DAYTONA BEACH,Florida,United States,69987,South
+163,TUCSON,Arizona,United States,28173,West
+164,BOISE,Idaho,United States,89237,West
+165,TALLAHASSEE,Florida,United States,22834,South
+166,KENT,Washington,United States,18487,West
+167,LORETTO,Minnesota,United States,40293,Midwest
+168,LANCASTER,California,United States,47714,West
+169,TUSCALOOSA,Alabama,United States,92420,South
+170,EVANSVILLE,Indiana,United States,96388,Midwest
+171,GATESVILLE,Texas,United States,31374,South
+172,HARRISBURG,Pennsylvania,United States,68555,Northeast
+173,COLORADO SPRINGS,Colorado,United States,63032,West
+174,SALEM,Oregon,United States,42711,West
+175,MILWAUKEE,Wisconsin,United States,86143,Midwest
+176,SAINT LOUIS,Missouri,United States,55158,Midwest
+177,GRAND FORKS,North Dakota,United States,32046,Midwest
+178,WEST PALM BEACH,Florida,United States,77853,South
+179,LEXINGTON,Kentucky,United States,95834,South
+180,IRVINE,California,United States,45950,West
+181,BOCA RATON,Florida,United States,42928,South
+182,BATON ROUGE,Louisiana,United States,27580,South
+183,DENTON,Texas,United States,79627,South
+184,MUNCIE,Indiana,United States,41206,Midwest
+185,DULUTH,Minnesota,United States,30865,Midwest
+186,SILVER SPRING,Maryland,United States,86283,South
+187,COLUMBUS,Georgia,United States,64311,South
+188,RENO,Nevada,United States,76889,West
+189,TYLER,Texas,United States,76318,South
+190,SARASOTA,Florida,United States,61472,South
+191,MESA,Arizona,United States,52681,West
+192,YOUNGSTOWN,Ohio,United States,15278,Midwest
+193,VIENNA,Virginia,United States,11911,South
+194,CANTON,Ohio,United States,64802,Midwest
+195,ODESSA,Texas,United States,168,South
+196,RIDGELY,Maryland,United States,31936,South
+197,FORT WORTH,Texas,United States,5217,South
+198,FLINT,Michigan,United States,69896,Midwest
+199,KALAMAZOO,Michigan,United States,96447,Midwest
+200,LOUISVILLE,Kentucky,United States,82187,South
+201,CORONA,California,United States,16156,West
+202,VIRGINIA BEACH,Virginia,United States,48215,South
+203,FULLERTON,California,United States,37669,West
+204,ORLANDO,Florida,United States,64729,South
+205,WHITE PLAINS,New York,United States,16967,Northeast
+206,GREENVILLE,South Carolina,United States,2285,South
+207,NEWARK,Delaware,United States,95156,South
+208,ZEPHYRHILLS,Florida,United States,17704,South
+209,WILMINGTON,Delaware,United States,31616,South
+210,FLORENCE,South Carolina,United States,8789,South
+211,MANSFIELD,Ohio,United States,81611,Midwest
+212,WICHITA,Kansas,United States,61194,Midwest
+213,MIAMI BEACH,Florida,United States,13874,South
+214,ATHENS,Georgia,United States,15921,South
+215,GREENSBORO,North Carolina,United States,29137,South
+216,PENSACOLA,Florida,United States,63079,South
+217,SPRING HILL,Florida,United States,83463,South
+218,SPOKANE,Washington,United States,88115,West
+219,SAINT AUGUSTINE,Florida,United States,50564,South
+220,GREELEY,Colorado,United States,86513,West
+221,JOHNSTOWN,Pennsylvania,United States,22586,Northeast
+222,WATERBURY,Connecticut,United States,34276,Northeast
+223,KNOXVILLE,Tennessee,United States,93242,South
+224,SHAWNEE MISSION,Kansas,United States,17807,Midwest
+225,JOLIET,Illinois,United States,35925,Midwest
+226,SCHAUMBURG,Illinois,United States,36888,Midwest
+227,ANN ARBOR,Michigan,United States,51688,Midwest
+228,PASADENA,Texas,United States,36873,South
+229,MANCHESTER,New Hampshire,United States,91683,Northeast
+230,PORTSMOUTH,Virginia,United States,85333,South
+231,LAWRENCEVILLE,Georgia,United States,26130,South
+232,TOLEDO,Ohio,United States,6234,Midwest
+233,GADSDEN,Alabama,United States,71933,South
+234,CUMMING,Georgia,United States,42538,South
+235,WILMINGTON,North Carolina,United States,84220,South
+236,ENGLEWOOD,Colorado,United States,11857,West
+237,INDIANAPOLIS,Indiana,United States,35996,Midwest
+238,SAN BERNARDINO,California,United States,36297,West
+239,BILOXI,Mississippi,United States,83533,South
+240,FREDERICKSBURG,Virginia,United States,29964,South
+241,MODESTO,California,United States,94195,West
+242,LEES SUMMIT,Missouri,United States,2472,Midwest
+243,IDAHO FALLS,Idaho,United States,79966,West
+244,JAMAICA,New York,United States,12887,Northeast
+245,CHICO,California,United States,78405,West
+246,NORMAN,Oklahoma,United States,63877,South
+247,NORTH LAS VEGAS,Nevada,United States,25984,West
+248,NEW HAVEN,Connecticut,United States,13769,Northeast
+249,DECATUR,Illinois,United States,41119,Midwest
+250,NEWPORT BEACH,California,United States,18288,West
+251,RESTON,Virginia,United States,70555,South
+252,CINCINNATI,Ohio,United States,58577,Midwest
+253,ARVADA,Colorado,United States,19931,West
+254,SIMI VALLEY,California,United States,72333,West
+255,PRESCOTT,Arizona,United States,17188,West
+256,CARLSBAD,California,United States,2005,West
+257,SAINT CLOUD,Minnesota,United States,6874,Midwest
+258,LANCASTER,Pennsylvania,United States,41845,Northeast
+259,NORTH LITTLE ROCK,Arkansas,United States,27538,South
+260,CHARLESTON,South Carolina,United States,97912,South
+261,PORTLAND,Maine,United States,24664,Northeast
+262,NORWALK,Connecticut,United States,75776,Northeast
+263,HAYWARD,California,United States,95065,West
+264,FARMINGTON,Michigan,United States,39830,Midwest
+265,GAINESVILLE,Georgia,United States,18087,South
+266,DURHAM,North Carolina,United States,76816,South
+267,EDMOND,Oklahoma,United States,97514,South
+268,BERKELEY,California,United States,23412,West
+269,BRIDGEPORT,Connecticut,United States,80164,Northeast
+270,SOUTHFIELD,Michigan,United States,98782,Midwest
+271,CRAWFORDSVILLE,Indiana,United States,58825,Midwest
+272,BOYNTON BEACH,Florida,United States,21254,South
+273,ALLENTOWN,Pennsylvania,United States,24598,Northeast
+274,PORTSMOUTH,New Hampshire,United States,86615,Northeast
+275,NEW HYDE PARK,New York,United States,21346,Northeast
+276,OCALA,Florida,United States,2031,South
+277,COLUMBUS,Mississippi,United States,47234,South
+278,YONKERS,New York,United States,62868,Northeast
+279,PEORIA,Illinois,United States,99196,Midwest
+280,SANTA BARBARA,California,United States,48934,West
+281,SPARTANBURG,South Carolina,United States,90271,South
+282,POMPANO BEACH,Florida,United States,96546,South
+283,MONTPELIER,Vermont,United States,45234,Northeast
+284,OCEANSIDE,California,United States,37171,West
+285,KILLEEN,Texas,United States,69262,South
+286,LITTLE ROCK,Arkansas,United States,74198,South
+287,HOLLYWOOD,Florida,United States,90698,South
+288,WICHITA FALLS,Texas,United States,30769,South
+289,BEAUFORT,South Carolina,United States,9189,South
+290,ANAHEIM,California,United States,49985,West
+291,BROCKTON,Massachusetts,United States,76307,Northeast
+292,DELRAY BEACH,Florida,United States,21512,South
+293,LYNN,Massachusetts,United States,40174,Northeast
+294,MELBOURNE,Florida,United States,15651,South
+295,EVERETT,Washington,United States,1617,West
+296,COLUMBIA,Missouri,United States,19480,Midwest
+297,NEW CASTLE,Pennsylvania,United States,62467,Northeast
+298,PUEBLO,Colorado,United States,47928,West
+299,MIDLAND,Michigan,United States,64971,Midwest
+300,BEAUMONT,Texas,United States,56360,South
+301,CONCORD,California,United States,56897,West
+302,FORT MYERS,Florida,United States,33421,South
+303,JEFFERSONVILLE,Indiana,United States,33247,Midwest
+304,METAIRIE,Louisiana,United States,75192,South
+305,FAYETTEVILLE,North Carolina,United States,22592,South
+306,HUNTINGTON BEACH,California,United States,35863,West
+307,ASHBURN,Virginia,United States,90444,South
+308,TEMPLE,Texas,United States,59225,South
+309,DECATUR,Georgia,United States,89579,South
+310,VENTURA,California,United States,71442,West
+311,PORT WASHINGTON,New York,United States,90002,Northeast
+312,EAST SAINT LOUIS,Illinois,United States,87710,Midwest
+313,MISSOULA,Montana,United States,48409,West
+314,GLENDALE,Arizona,United States,66648,West
+315,NORTH HOLLYWOOD,California,United States,22459,West
+316,PALMDALE,California,United States,36394,West
+317,SANTA ANA,California,United States,99801,West
+318,WARREN,Ohio,United States,35085,Midwest
+319,ASHEVILLE,North Carolina,United States,47512,South
+320,HOT SPRINGS NATIONAL PARK,Arkansas,United States,7986,South
+321,LEVITTOWN,Pennsylvania,United States,84470,Northeast
+322,CAROL STREAM,Illinois,United States,38719,Midwest
+323,BETHESDA,Maryland,United States,33527,South
+324,LAKELAND,Florida,United States,75186,South
+325,MACON,Georgia,United States,66270,South
+326,SANTA MONICA,California,United States,99280,West
+327,APPLETON,Wisconsin,United States,94394,Midwest
+328,SIOUX CITY,Iowa,United States,85295,Midwest
+329,FRANKFORT,Kentucky,United States,7479,South
+330,ESCONDIDO,California,United States,87518,West
+331,PINELLAS PARK,Florida,United States,54515,South
+332,DULLES,Virginia,United States,4642,South
+333,BOWIE,Maryland,United States,53989,South
+334,LITTLETON,Colorado,United States,80595,West
+335,MARIETTA,Georgia,United States,20003,South
+336,BOULDER,Colorado,United States,3324,West
+337,HENDERSON,Nevada,United States,4640,West
+338,AIKEN,South Carolina,United States,48455,South
+339,BILLINGS,Montana,United States,2271,West
+340,CHULA VISTA,California,United States,79933,West
+341,WACO,Texas,United States,57070,South
+342,ALEXANDRIA,Virginia,United States,37356,South
+343,LAKE WORTH,Florida,United States,45473,South
+344,FARGO,North Dakota,United States,64407,Midwest
+345,APACHE JUNCTION,Arizona,United States,57481,West
+346,HELENA,Montana,United States,82757,West
+347,OLYMPIA,Washington,United States,86937,West
+348,FORT SMITH,Arkansas,United States,93153,South
+349,NEWPORT NEWS,Virginia,United States,6468,South
+350,BREA,California,United States,19532,West
+351,ELMIRA,New York,United States,16543,Northeast
+352,ELIZABETH,New Jersey,United States,25955,Northeast
+353,PORT SAINT LUCIE,Florida,United States,93649,South
+354,VALDOSTA,Georgia,United States,30663,South
+355,PROVO,Utah,United States,32067,West
+356,RICHMOND,California,United States,5803,West
+357,BRONX,New York,United States,31877,Northeast
+358,LARGO,Florida,United States,60980,South
+359,FORT PIERCE,Florida,United States,9387,South
+360,FALLS CHURCH,Virginia,United States,58477,South
+361,MERRIFIELD,Virginia,United States,54759,South
+362,INGLEWOOD,California,United States,3943,West
+363,PROVIDENCE,Rhode Island,United States,79114,Northeast
+364,LIMA,Ohio,United States,17580,Midwest
+365,DANBURY,Connecticut,United States,68173,Northeast
+366,TROY,Michigan,United States,64317,Midwest
+367,AUGUSTA,Georgia,United States,96832,South
+368,POMONA,California,United States,3618,West
+369,DULUTH,Georgia,United States,30464,South
+370,HYATTSVILLE,Maryland,United States,4048,South
+371,CAMBRIDGE,Massachusetts,United States,48066,Northeast
+372,PATERSON,New Jersey,United States,20904,Northeast
+373,SANTA FE,New Mexico,United States,24167,West
+374,SAINT JOSEPH,Missouri,United States,66273,Midwest
+375,LAKEWOOD,Washington,United States,54689,West
+376,NAPERVILLE,Illinois,United States,10449,Midwest
+377,CHARLOTTESVILLE,Virginia,United States,98950,South
+378,LEHIGH ACRES,Florida,United States,3398,South
+379,LAUREL,Maryland,United States,77792,South
+380,ROUND ROCK,Texas,United States,87245,South
+381,WORCESTER,Massachusetts,United States,7458,Northeast
+382,ALEXANDRIA,Louisiana,United States,25812,South
+383,VISALIA,California,United States,97935,West
+384,FAIRFIELD,Connecticut,United States,18977,Northeast
+385,WARREN,Michigan,United States,50660,Midwest
+386,NORTH PORT,Florida,United States,34539,South
+387,COLLEGE STATION,Texas,United States,19734,South
+388,JOHNSON CITY,Tennessee,United States,83910,South
+389,REDWOOD CITY,California,United States,23989,West
+390,LONDON,Kentucky,United States,74607,South
+391,MORENO VALLEY,California,United States,86261,West
+392,DEARBORN,Michigan,United States,68259,Midwest
+393,JACKSON,Tennessee,United States,4603,South
+394,GULFPORT,Mississippi,United States,57287,South
+395,UTICA,New York,United States,61027,Northeast
+396,IOWA CITY,Iowa,United States,44374,Midwest
+397,GALVESTON,Texas,United States,65956,South
+398,HAMPTON,Virginia,United States,73156,South
+399,MOUNTAIN VIEW,California,United States,3632,West
+400,MANASSAS,Virginia,United States,26901,South
+401,VALLEY FORGE,Pennsylvania,United States,65633,Northeast
+402,MIDLAND,Texas,United States,6728,South
+403,FAIRFAX,Virginia,United States,52738,South
+404,GILBERT,Arizona,United States,8246,West
+405,SPRINGFIELD,Virginia,United States,2060,South
+406,BLOOMINGTON,Indiana,United States,6837,Midwest
+407,ALHAMBRA,California,United States,84240,West
+408,ANDERSON,South Carolina,United States,89798,South
+409,VAN NUYS,California,United States,39334,West
+410,SUNNYVALE,California,United States,62779,West
+411,MURFREESBORO,Tennessee,United States,22442,South
+412,BOZEMAN,Montana,United States,65926,West
+413,NORCROSS,Georgia,United States,75356,South
+414,YAKIMA,Washington,United States,64456,West
+415,GASTONIA,North Carolina,United States,7767,South
+416,HATTIESBURG,Mississippi,United States,59102,South
+417,LAS CRUCES,New Mexico,United States,83520,West
+418,VERO BEACH,Florida,United States,27433,South
+419,PEORIA,Arizona,United States,88764,West
+420,OXNARD,California,United States,23446,West
+421,WATERLOO,Iowa,United States,60929,Midwest
+422,IRVING,Texas,United States,66669,South
+423,CAPE CORAL,Florida,United States,84029,South
+424,KANSAS CITY,Kansas,United States,59791,Midwest
+425,AURORA,Illinois,United States,12500,Midwest
+426,WHITTIER,California,United States,25183,West
+427,BONITA SPRINGS,Florida,United States,1933,South
+428,SANTA ROSA,California,United States,95086,West
+429,STATEN ISLAND,New York,United States,23959,Northeast
+430,KISSIMMEE,Florida,United States,68656,South
+431,SPRINGFIELD,Ohio,United States,96876,Midwest
+432,ANDERSON,Indiana,United States,40930,Midwest
+433,HIGH POINT,North Carolina,United States,11338,South
+434,CONROE,Texas,United States,32777,South
+435,SEMINOLE,Florida,United States,77887,South
+436,WINTER HAVEN,Florida,United States,80407,South
+437,LYNCHBURG,Virginia,United States,44670,South
+438,CAMDEN,New Jersey,United States,25126,Northeast
+439,WATERTOWN,Massachusetts,United States,86218,Northeast
+440,YORK,Pennsylvania,United States,95772,Northeast
+441,MERIDIAN,Mississippi,United States,6551,South
+442,MOUNT VERNON,New York,United States,21644,Northeast
+443,HUNTSVILLE,Texas,United States,54059,South
+444,SUFFOLK,Virginia,United States,12986,South
+445,LONGVIEW,Texas,United States,59323,South
+446,PORT CHARLOTTE,Florida,United States,1044,South
+447,GRAND JUNCTION,Colorado,United States,84141,West
+448,SPARKS,Nevada,United States,40709,West
+449,BEAVERTON,Oregon,United States,11905,West
+450,HICKSVILLE,New York,United States,55902,Northeast
+451,SALINAS,California,United States,87673,West
+452,HOMESTEAD,Florida,United States,7698,South
+453,SAN ANGELO,Texas,United States,64806,South
+454,LAKE CHARLES,Louisiana,United States,14808,South
+455,BETHLEHEM,Pennsylvania,United States,70831,Northeast
+456,SAN MATEO,California,United States,51401,West
+457,WALTHAM,Massachusetts,United States,69184,Northeast
+458,GREAT NECK,New York,United States,31638,Northeast
+459,FREDERICK,Maryland,United States,2265,South
+460,NEW BEDFORD,Massachusetts,United States,63269,Northeast
+461,SANDY,Utah,United States,38127,West
+462,ROCKFORD,Illinois,United States,18236,Midwest
+463,MESQUITE,Texas,United States,34768,South
+464,EVANSTON,Illinois,United States,50957,Midwest
+465,CHEYENNE,Wyoming,United States,23775,West
+466,PETALUMA,California,United States,92746,West
+467,PALATINE,Illinois,United States,65729,Midwest
+468,WOBURN,Massachusetts,United States,65487,Northeast
+469,OGDEN,Utah,United States,99464,West
+470,CHAMPAIGN,Illinois,United States,69444,Midwest
+471,FLUSHING,New York,United States,8025,Northeast
+472,BISMARCK,North Dakota,United States,99843,Midwest
+473,NEW BRUNSWICK,New Jersey,United States,41941,Northeast
+474,ROCHESTER,Minnesota,United States,26047,Midwest
+475,NORTHRIDGE,California,United States,72375,West
+476,MYRTLE BEACH,South Carolina,United States,6674,South
+477,ANNAPOLIS,Maryland,United States,98667,South
+478,SOUTH LAKE TAHOE,California,United States,15370,West
+479,GAITHERSBURG,Maryland,United States,45022,South
+480,BLOOMINGTON,Illinois,United States,62503,Midwest
+481,CHESAPEAKE,Virginia,United States,54226,South
+482,PALO ALTO,California,United States,88487,West
+483,PUNTA GORDA,Florida,United States,48443,South
+484,MC KEESPORT,Pennsylvania,United States,25201,Northeast
+485,ROCKVILLE,Maryland,United States,58118,South
+486,CHANDLER,Arizona,United States,69480,West

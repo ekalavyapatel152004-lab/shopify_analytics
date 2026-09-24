@@ -1,0 +1,6 @@
+payment_key,gateway,payment_type,is_online
+1,Shopify Payments,Digital Wallet,1
+2,Manual,Manual,0
+3,PayPal,Digital Wallet,1
+4,Amazon Pay,Digital Wallet,1
+5,Gift Card,Store Credit,1

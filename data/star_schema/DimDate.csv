@@ -1,0 +1,8 @@
+full_date,date_key,year,month,month_name,quarter,quarter_name,week,day,day_of_week_num,day_name,is_weekend
+2025-03-18,20250318,2025,3,March,1,Q1,12,18,1,Tuesday,0
+2025-03-19,20250319,2025,3,March,1,Q1,12,19,2,Wednesday,0
+2025-03-20,20250320,2025,3,March,1,Q1,12,20,3,Thursday,0
+2025-03-21,20250321,2025,3,March,1,Q1,12,21,4,Friday,0
+2025-03-22,20250322,2025,3,March,1,Q1,12,22,5,Saturday,1
+2025-03-23,20250323,2025,3,March,1,Q1,12,23,6,Sunday,1
+2025-03-24,20250324,2025,3,March,1,Q1,13,24,0,Monday,0
